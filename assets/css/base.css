@@ -1,0 +1,64 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:inherit;
+}
+
+html{
+    font-size:62.5%;
+    line-height:1.5;
+    box-sizing:border-box;
+    font-family: 'Oswald', sans-serif;
+}
+
+.clear{
+    clear:both;
+}
+
+.w3-right{
+    float:right;
+}
+
+.w3-left{
+    float:left;
+}
+
+.grid{
+    width:1600px;
+    margin:0 auto;
+}
+
+.row{
+    margin-left:-12px;
+    margin-right:-12px;
+}
+
+.colum-8{
+    width:66.666%;
+    /* padding-left:12px;
+    padding-right:12px;  */
+}
+
+.colum-4{
+    width:33.333%;
+    /* padding-left:12px;
+    padding-right:12px;  */
+}
+
+.colum-10{
+    width:83.333%;
+    padding-left:12px;
+    padding-right:12px;
+}
+
+.colum-2{
+    width:16.6%;
+    padding-left:12px;
+    padding-right:12px;
+}
+
+hr{
+    border:0;
+    border-top:1px solid rgba(0, 0, 0, 0.1);
+    margin:20px 0;
+}
